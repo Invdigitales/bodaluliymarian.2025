@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3411.7677635648342!2d-59.9888762!3d-31.227162900000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b49af85305dc59%3A0x7acc4cf0a71e6467!2sParroquia%20%22Nuestra%20Sra.%20de%20la%20Merced%22%20Hernandarias!5e0!3m2!1ses-419!2sar!4v1733837107007!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.5448574917614!2d-58.2653398!3d-34.8927738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a2d66580b41b8f%3A0x1d546018ed221ca2!2sQuinta%20%22La%20Amistad%22!5e0!3m2!1ses-419!2sar!4v1734651015852!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
