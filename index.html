@@ -24,7 +24,10 @@
 </head>
 
 <body>
-  
+  <div class="preloader">
+    <img class="amor" src="./imagenes/dlf10_wXhJVPvTG1.gif" alt="">
+   </div>
+ 
   <div class="caja-audio">
     <h5 class="Play">Dale Play</h5>
     <audio class="audio" controls autoplay>
@@ -222,6 +225,13 @@ Alias: LUCISNEROS23
   
   </footer>
 
+
+  <script>
+    window.addEventListener('load', () => {
+        const body = document.querySelector('body');
+        body.classList.add('loaded');
+    });
+    </script>
 
   <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
